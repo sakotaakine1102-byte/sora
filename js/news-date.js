@@ -1,4 +1,11 @@
 const NEWS_DATA = [
+      {
+    "date": "2026-06-08",
+    "tag": "news",
+    "title": "6月イベント情報",
+    "excerpt": "6月イベントの情報です。\n皆で楽しみましょう！",
+    "url": "https://canva.link/8zkuo84f1c8vqer"
+  },
      {
     "date": "2026-06-01",
     "tag": "news",
